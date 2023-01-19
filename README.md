@@ -9,6 +9,4 @@ Every other Shared Todo List I could find was targetted towards buisnesses and t
 ## Why did I use flutter?
 I used flutter because I wanted it to be compatible with android and apple devices. I also hope to use flutter a lot more in the future because it seems really cool.
 
-## Table of Contents
-
 ## How to install
